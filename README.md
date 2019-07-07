@@ -17,7 +17,7 @@ We added database fields to accommodate avatar data and implemented the Python s
 ## Avatar Framework (JS and Artwork)
 
 The avatar design is illustrated under [Design](https://github.com/DanielMeusburger/FutureSelfAvatar/blob/master/illustrations/summary.png).
-A example of the avatar is available at [Link](http://www.workplayce.de/avatar/avatar.html).
+A example of the avatar is available at [here](http://www.workplayce.de/avatar/avatar.html).
 
 The uploaded version of the code removed all references to connecting to the server it was used and instead uses hard-coded examples for
 a) the avatar health stage data (e.g. scores)
@@ -33,7 +33,7 @@ The avatar was built with
 
 **License**
 
-This avatar framework (JS file) and artwork is licensed under the MIT License - for more information see [License](https://github.com/DanielMeusburger/FutureSelfAvatar/blob/master/LICENSE) and [avatar.js](https://github.com/DanielMeusburger/FutureSelfAvatar/blob/master/framework/avatar.js)
+This [avatar framework](https://github.com/DanielMeusburger/FutureSelfAvatar/tree/master/framework) (JS file and artwork) is licensed under the MIT License - for more information see [License](https://github.com/DanielMeusburger/FutureSelfAvatar/blob/master/LICENSE) and [avatar.js](https://github.com/DanielMeusburger/FutureSelfAvatar/blob/master/framework/avatar.js)
 
 ## Avatar Mobile App
 TBC
@@ -43,6 +43,6 @@ TBC
 
 ## Authors
 
-* **Daniel Meusburger** - *Concept creation, avatar development, server configuration and artwork* - [Link(http://www.workplayce.de/portfolio/about.html)
+* **Daniel Meusburger** - *Concept creation, avatar development, server configuration and artwork* - [Link](http://www.workplayce.de/portfolio/about.html)
 * **Klaus Fuchs** - *Supervision, app development and concept creation* - [Link](https://im.ethz.ch/people/kfuchs.html)
 * **Sven Brunner** - *Technical advise, app development and server configuration* - [Link](https://www.linkedin.com/in/sven-brunner-7ba3bb106/)
