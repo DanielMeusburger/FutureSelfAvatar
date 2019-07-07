@@ -41,7 +41,7 @@ TBC
 ## Avatar Server
 TBC
 
-## Authors
+## Implemented by
 
 * **Daniel Meusburger** - *Concept creation, avatar development, server configuration and artwork* - [Link](http://www.workplayce.de/portfolio/about.html)
 * **Klaus Fuchs** - *Supervision, app development and concept creation* - [Link](https://im.ethz.ch/people/kfuchs.html)
