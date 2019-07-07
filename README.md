@@ -14,10 +14,10 @@ We integrated the avatar into a pre-existing Swiss FoodTracker app as a WebView.
 As an example, we used the Swiss FoodTracker server to store all food items, user data and logic for calculating users’ intake levels (by Klaus Fuchs and Sven Brunner).
 We added database fields to accommodate avatar data and implemented the Python script logic to calculate users’ health stages (e.g. healthy heart = stage 2) and messages based on a respective diet.
 
-## Avatar Framework (JS)
+## Avatar Framework (JS and Artwork)
 
 The avatar design is illustrated under [Design](https://github.com/DanielMeusburger/FutureSelfAvatar/blob/master/illustrations/summary.png).
-A example of the avatar is available at [Link](http://www.workplayce.de/avatar/avatar.html) (German)
+A example of the avatar is available at [Link](http://www.workplayce.de/avatar/avatar.html).
 
 The uploaded version of the code removed all references to connecting to the server it was used and instead uses hard-coded examples for
 a) the avatar health stage data (e.g. scores)
@@ -26,12 +26,14 @@ b) the artwork uploaded with the project
 To install this upload all the files to a server and embed references to a server which provides health data to the *avatar.js*
 
 **Built With**
+
 The avatar was built with
 * [William Malone](http://www.williammalone.com/articles/create-html5-canvas-javascript-game-character/1/) - Framework used as an example to create this Avatar Framework
 * [jQuery](https://jquery.com/)
 
 **License**
-This framework is licensed under the MIT License - for more information see avatar.js
+
+This avatar framework (JS file) and artwork is licensed under the MIT License - for more information see [License](https://github.com/DanielMeusburger/FutureSelfAvatar/blob/master/LICENSE) and [avatar.js](https://github.com/DanielMeusburger/FutureSelfAvatar/blob/master/framework/avatar.js)
 
 ## Avatar Mobile App
 TBC
