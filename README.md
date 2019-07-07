@@ -16,7 +16,7 @@ We added database fields to accommodate avatar data and implemented the Python s
 
 ## Avatar Framework (JS)
 
-The avatar design is illustrated under [Design](www.google.com)
+The avatar design is illustrated under [Design](https://github.com/DanielMeusburger/FutureSelfAvatar/blob/master/illustrations/summary.png).
 A example of the avatar is available at [Link](http://www.workplayce.de/avatar/avatar.html) (German)
 
 The uploaded version of the code removed all references to connecting to the server it was used and instead uses hard-coded examples for
